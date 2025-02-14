@@ -1,0 +1,22 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "firstproject",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "firstproject"
+  },
+  "license": "ISC",
+  "author": "varun",
+  "type": "y",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.6",
+    "firstproject": "file:",
+    "tailwindcss": "^4.0.6"
+  }
+}
